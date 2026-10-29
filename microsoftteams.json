@@ -548,7 +548,7 @@
                     "order": 2
                 },
                 "adaptive_card": {
-                    "description": "JSON string of an Adaptive Card to send as a rich card attachment. Required if 'message' is not provided",
+                    "description": "JSON string of an Adaptive Card to send as a rich card attachment",
                     "data_type": "string",
                     "required": false,
                     "order": 3
@@ -1111,7 +1111,7 @@
                     "order": 1
                 },
                 "adaptive_card": {
-                    "description": "JSON string of an Adaptive Card to send as a rich card attachment. Required if 'message' is not provided",
+                    "description": "JSON string of an Adaptive Card to send as a rich card attachment",
                     "data_type": "string",
                     "required": false,
                     "order": 2
@@ -1329,7 +1329,7 @@
                     "order": 1
                 },
                 "adaptive_card": {
-                    "description": "JSON string of an Adaptive Card to send as a rich card attachment. Required if 'message' is not provided",
+                    "description": "JSON string of an Adaptive Card to send as a rich card attachment",
                     "data_type": "string",
                     "required": false,
                     "order": 2
